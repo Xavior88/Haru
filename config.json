@@ -1,15 +1,30 @@
 {
-    "ownerNumber": ["081908052908@s.whatsapp.net","0@s.whatsapp.net"],
+
+    "ownerNumber": ["081908052908@s.whatsapp.net"],
+
     "ownerName": "Nanang",
+
     "instagram" : "https://instagram.com/xavior",
-    "botName": "NanangBOT ",
+
+    "botName": "Xavior ",
+
     "footer": "WhatsApp Bot",
+
     "sessionName": "session",
+
     "pathimg": "./media/Haruka.jpg",
+
     "gamewaktu": 90,
+
     "limitCount": 25,
+
     "gcount": {
+
         "prem": 35,
+
         "user": 15
+
     }
+
 }
+
